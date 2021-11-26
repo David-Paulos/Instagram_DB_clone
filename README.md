@@ -8,7 +8,9 @@
  
  It is used to perform data analysis for real world business related questions and scenarios such as
 
-    * find out the rewarding system for the loyal users
-    * launching campaign to target the weekdays with the most user registerations
-    * encouraging inactive users to log in back to the system
-    * etc.
+     Find out the rewarding system for the loyal users
+     Launching campaign to target the weekdays with the most user registerations
+     Encouraging inactive users to log in back to the system
+    
+
+ <img height="128" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
